@@ -1,0 +1,8 @@
+body{
+    background-color: #ECCDB4;
+}
+.post-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
